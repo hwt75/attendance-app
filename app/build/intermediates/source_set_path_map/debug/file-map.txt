@@ -1,0 +1,9 @@
+com.example.androidattendancesystem.app-support-compat-26.1.0-0 C:\Users\JARVIS\.gradle\caches\transforms-3\3ca5f415d047b20e2df4020e2cd3e44c\transformed\support-compat-26.1.0\res
+com.example.androidattendancesystem.app-support-media-compat-26.1.0-1 C:\Users\JARVIS\.gradle\caches\transforms-3\73a345a66cdbac6329cf36dfee6e4912\transformed\support-media-compat-26.1.0\res
+com.example.androidattendancesystem.app-pngs-2 D:\Code-Space\Java-app\Android-Attendance-App\app\build\generated\res\pngs\debug
+com.example.androidattendancesystem.app-resValues-3 D:\Code-Space\Java-app\Android-Attendance-App\app\build\generated\res\resValues\debug
+com.example.androidattendancesystem.app-mergeDebugResources-4 D:\Code-Space\Java-app\Android-Attendance-App\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.androidattendancesystem.app-mergeDebugResources-5 D:\Code-Space\Java-app\Android-Attendance-App\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.androidattendancesystem.app-merged_res-6 D:\Code-Space\Java-app\Android-Attendance-App\app\build\intermediates\merged_res\debug
+com.example.androidattendancesystem.app-debug-7 D:\Code-Space\Java-app\Android-Attendance-App\app\src\debug\res
+com.example.androidattendancesystem.app-main-8 D:\Code-Space\Java-app\Android-Attendance-App\app\src\main\res
